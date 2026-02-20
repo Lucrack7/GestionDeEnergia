@@ -74,8 +74,3 @@ npm install recharts zustand react-router-dom
 - **Recharts sobre Chart.js** — API declarativa en JSX nativo con excelente soporte TypeScript.
 - **Hooks personalizados** — `useEnergySimulator` desacopla la lógica de simulación de cualquier componente visual, facilitando reemplazarla con una API real en el futuro.
 
----
-
-## 📄 Licencia
-
-MIT
